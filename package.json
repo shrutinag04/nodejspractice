@@ -1,0 +1,15 @@
+{
+  "name": "reqparam1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Shruti",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "type":"module"
+}
